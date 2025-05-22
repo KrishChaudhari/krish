@@ -11,7 +11,7 @@
 ## 🧑‍💻 Summary
 
 I am Krish Chaudhari, an aspiring Data Scientist from Pune, India, passionate about leveraging data to drive impactful solutions. With hands-on experience in Machine Learning, Deep Learning, and Data Analysis, I have contributed to innovative project at VSSC, ISRO which was to do AI Augmented PCB inspection using CNNs and XML-based data pipelines. My academic journey is marked by my B.E. final year project which got accepted by IEEE for publication and also by my active participation in national-level hackathons like ISRO’s Bharatiya Antariksh Hackathon and Smart India Hackathon. My technical stack includes Python, TensorFlow, Keras, PyTorch, SQL, and a range of data tools like Power BI, Tableau, and AWS. I thrive in analytical environments and enjoy turning complex problems into clear, actionable insights.
-🔍 I am currently seeking opportunities to apply my skills in data-driven roles where I can contribute to real-world innovation
+          🔍 I am currently seeking opportunities to apply my skills in data-driven roles where I can contribute to real-world innovation
 
 ---
 
