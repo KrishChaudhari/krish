@@ -91,7 +91,7 @@ Employed ETL to process XML data for PCB components and converted XML to TFRecor
 - **Email:** chaudharykrish650@gmail.com
 - **Phone:** +91-7757-901818
 - **LinkedIn:** https://www.linkedin.com/in/krish-chaudhari-8450b0229
-- **GitHub:** https://github.com/krish4210/helicopt/tree/main
+- **GitHub:** https://github.com/KrishChaudhari
 
 ---
 
