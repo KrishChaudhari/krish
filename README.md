@@ -2,9 +2,7 @@
 # Krish Chaudhari
 
 **Pune, Maharashtra, India**  
-📞 +91-7757-901818  
-✉️ chaudharykrish650@gmail.com  
-[LinkedIn](#) | [GitHub](#)
+
 
 ---
 
