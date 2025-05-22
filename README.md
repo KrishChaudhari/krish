@@ -54,17 +54,19 @@ _Jan 2022 - Oct 2022_
 
 ## 🚀 Projects
 
-### [Anomaly Prediction from Sensors](#) _(Nov 2023 - Dec 2023)_
-- Utilized LSTM and logistic regression for binary classification on sensor data.
-- Managed data mining, model training, and performance evaluation with confusion matrix analysis.
+### [Anomaly Prediction using AI](#) 
+Anomaly Prediction using AI implements a state-of-the-art pipeline for anomaly detection in sequential and tabular datasets. This project integrates advanced techniques such as SMOTE for data balancing, MinMax normalization, and a Bidirectional LSTM neural network architecture, enhanced with dropout and batch normalization layers. It features automated threshold optimization, precision-recall analysis, and ready-to-submit prediction output. The project demonstrates expertise in deep learning for anomaly detection, end-to-end data processing, and performance-driven model evaluation.
 
-### [Fluid Type Detection and Calculation](#) _(Jul 2024 - Aug 2024)_
-- Automated detection of fluid type (Turbulent or Laminar) using function-oriented Python.
-- Incorporated features like Reynolds number and skin Drag Coefficient for accurate classification.
+### [Sentiment Analysis using NLP](#) 
+Sentiment Analysis using NLP is a robust natural language processing pipeline developed to classify textual data as positive or negative sentiment. Leveraging advanced deep learning techniques with TensorFlow and Keras, the project incorporates pre-trained GloVe embeddings, text preprocessing, and a 1D Convolutional Neural Network for feature extraction. It features comprehensive data handling, visualization of training metrics, and model evaluation. This solution demonstrates practical expertise in NLP, model deployment, and reproducible experimentation for real-world sentiment analysis tasks.
 
-### [AI Augmented PCB Inspection](#) _(VSSC, ISRO | Aug 2024 - Sep 2024)_
-- Employed ETL to process XML data for PCB components and converted XML to TFRecords for clean data parsing.
-- Trained custom CNN models and applied linear regression for PCB component classification.
+### [Fluid Flow Analysis](#) 
+Fluid Flow Analysis is a comprehensive Python toolkit designed for the analysis and classification of fluid flow regimes. The project automates the calculation of essential flow properties such as Reynolds number, skin friction, boundary layer thickness, and wall shear stress. It enables engineers and researchers to efficiently classify flows as laminar, transitional, or turbulent, and to estimate drag and kinetic energy. The codebase emphasizes function-oriented design for adaptability and clarity, making it a valuable asset in fluid mechanics research and engineering applications.
+
+### [AI Augmented PCB Inspection](#) _(VSSC, ISRO)_
+Employed ETL to process XML data for PCB components and converted XML to TFRecords for clean data parsing. Trained custom CNN models and applied linear regression for PCB component classification. Integrated machine learning and deep learning models using Python enhancing practical skills in model building, model training & model evaluation which improved project efficiency and enabled me to apply clean code principles. Collaborated mathematics & statistical analysis knowledge with data science & data analysis skills to solve complex multidisciplinary problem of PCB component detection and inspection.
+
+### 
 
 ---
 
